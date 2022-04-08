@@ -1,0 +1,8 @@
+pink  #ff6681
+salmon #ff6c6c
+green #4fb5a5
+blue #5898b6
+darker blue #1d809f
+darkest blue #1f3647
+grey #cfc4ca
+off-white #fce6e8
